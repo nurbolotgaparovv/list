@@ -1,0 +1,28 @@
+body{
+    background: black;
+}
+.lolo{
+    margin: 100px 0 0 0 ;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.input{
+    width: 200px;
+}
+h1{
+    color: white;
+}
+ul{
+    margin: 0 auto;
+    width: 500px;
+}
+.room{
+    margin: 20px 0 0 0;
+    display: flex;
+    justify-content: center;
+}
+.btnA{
+    margin: 0 10px;
+}
